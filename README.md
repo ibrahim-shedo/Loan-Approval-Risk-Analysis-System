@@ -153,3 +153,30 @@ Built an interactive dashboard using Tableau to translate model insights into **
 
 ## 📂 Project Structure
 
+
+---
+
+## 👤 Author
+
+**Ibrahim Shedoh**  
+Data Scientist | ML Engineer | AI Engineer  
+
+---
+
+## 🔗 Connect With Me
+
+- LinkedIn: *(ibrahim-shedoh)*
+- GitHub: *(ibrahim-shedo)*
+
+---
+
+## ⭐ Final Note
+
+This project reflects my transition from learning theory to building **real-world data systems** that combine:
+
+✔ Machine Learning  
+✔ Data Analysis  
+✔ Business Intelligence  
+✔ Financial Risk Thinking  
+
+---
