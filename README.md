@@ -89,3 +89,23 @@ Built an interactive dashboard using Tableau to translate model insights into **
 ---
 
 ## 🏗 System Architecture
+
+        Raw Data
+           │
+           ▼
+  Data Cleaning & Preprocessing
+           │
+           ▼
+   Feature Engineering Layer
+           │
+           ▼
+  Machine Learning Model
+           │
+           ▼
+    Predictions & Insights
+           │
+           ▼
+ Tableau Dashboard (BI Layer)
+           │
+           ▼
+    Business Decision Making
