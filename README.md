@@ -90,7 +90,7 @@ Built an interactive dashboard using Tableau to translate model insights into **
 
 ## 🏗 System Architecture
 
-        Raw Data
+   Raw Data
            │
            ▼
   Data Cleaning & Preprocessing
@@ -109,3 +109,47 @@ Built an interactive dashboard using Tableau to translate model insights into **
            │
            ▼
     Business Decision Making
+
+
+---
+
+## 📊 Key Insights
+
+- ✅ **Credit history is the strongest predictor of loan approval**
+- ❌ Income alone does NOT guarantee approval  
+- ⚠️ High Loan-to-Income ratio increases rejection probability  
+- 📍 Semiurban areas show slightly higher approval rates  
+- 🎓 Education has moderate influence  
+
+---
+
+## 🛠 Tech Stack
+
+| Category | Tools |
+|--------|------|
+| Data Processing | Pandas, NumPy |
+| Machine Learning | Scikit-learn |
+| Visualization | Tableau |
+| Modeling | Logistic Regression |
+| Feature Engineering | Financial Ratios |
+
+---
+
+## 📸 Dashboard Preview
+
+> *(Add your dashboard screenshots here)*
+
+---
+
+## 🚀 Future Improvements
+
+- 🔥 Implement advanced models (XGBoost, Random Forest)
+- 🔥 Add explainability (SHAP, feature importance)
+- 🔥 Deploy ML model using Streamlit
+- 🔥 Integrate real-time data pipeline
+- 🔥 Build API for predictions
+
+---
+
+## 📂 Project Structure
+
