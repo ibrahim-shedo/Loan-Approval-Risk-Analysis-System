@@ -90,6 +90,16 @@ Built an interactive dashboard using Tableau to translate model insights into **
 
 <img width="1212" height="806" alt="dashboard" src="https://github.com/user-attachments/assets/fb6d4362-298b-4dea-816d-8fef85f6e9a5" />
 
+
+## 📊 Key Insights
+
+- ✅ **Credit history is the strongest predictor of loan approval**
+- ❌ Income alone does NOT guarantee approval  
+- ⚠️ High Loan-to-Income ratio increases rejection probability  
+- 📍 Semiurban areas show slightly higher approval rates  
+- 🎓 Education has moderate influence  
+
+
 ---
 
 ## 🏗 System Architecture
@@ -117,13 +127,6 @@ Built an interactive dashboard using Tableau to translate model insights into **
 
 ---
 
-## 📊 Key Insights
-
-- ✅ **Credit history is the strongest predictor of loan approval**
-- ❌ Income alone does NOT guarantee approval  
-- ⚠️ High Loan-to-Income ratio increases rejection probability  
-- 📍 Semiurban areas show slightly higher approval rates  
-- 🎓 Education has moderate influence  
 
 ---
 
@@ -138,9 +141,6 @@ Built an interactive dashboard using Tableau to translate model insights into **
 | Feature Engineering | Financial Ratios |
 
 ---
-
-
-
 ---
 
 ## 🚀 Future Improvements
