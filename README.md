@@ -101,7 +101,7 @@ Built an interactive dashboard using Tableau to translate model insights into **
 
 
 ---
-
+## 📂 Project Structure
 ## 🏗 System Architecture
 
    Raw Data
@@ -152,10 +152,6 @@ Built an interactive dashboard using Tableau to translate model insights into **
 - 🔥 Build API for predictions
 
 ---
-
-## 📂 Project Structure
-
-
 ---
 
 ## 👤 Author
