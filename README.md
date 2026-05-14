@@ -86,6 +86,10 @@ Built an interactive dashboard using Tableau to translate model insights into **
 - Loan-to-Income Risk Scatter Plot
 - Interactive Filters (Gender, Education, Area, etc.)
 
+- ## 📸 Dashboard Preview
+
+<img width="1212" height="806" alt="dashboard" src="https://github.com/user-attachments/assets/fb6d4362-298b-4dea-816d-8fef85f6e9a5" />
+
 ---
 
 ## 🏗 System Architecture
@@ -135,9 +139,6 @@ Built an interactive dashboard using Tableau to translate model insights into **
 
 ---
 
-## 📸 Dashboard Preview
-
-<img width="1212" height="806" alt="dashboard" src="https://github.com/user-attachments/assets/fb6d4362-298b-4dea-816d-8fef85f6e9a5" />
 
 
 ---
